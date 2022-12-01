@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KlokMiraj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @KlokMiraj 
+- 👀 I’m interested in anything technology, specially data driven solutions. Currently looking for Data Engineering/Software Engineering Roles
+- 🌱 I’m currently learning python for data, Azure Ecosystem and Databrick 
+- 💞️ I’m looking to collaborate on innovative ideas and mind boggling software solutions
+- 📫 Find Everything about me and more on miraj.com.np
 
 <!---
 KlokMiraj/KlokMiraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
