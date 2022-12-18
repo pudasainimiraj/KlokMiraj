@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KlokMiraj 
+- 👋 Hi, I’m @KlokMiraj (Miraj Pudasaini)
 - 👀 I’m interested in anything technology, specially data driven solutions. Currently looking for Data Engineering/Software Engineering Roles
 - 🌱 I’m currently learning python for data, Azure Ecosystem and Databrick 
 - 💞️ I’m looking to collaborate on innovative ideas and mind boggling software solutions
