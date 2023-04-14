@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @KlokMiraj (Miraj Pudasaini)
 - 👀 I’m interested in anything technology, specially data driven solutions. Currently looking for Data Engineering/Software Engineering Roles
-- 🌱 I’m currently learning python for data, Azure Ecosystem and Databrick 
+- 🌱 I’m currently stirring the pot @zolaAnalytics as a Software Engineer 
 - 💞️ I’m looking to collaborate on innovative ideas and mind boggling software solutions
 - 📫 Find Everything about me and more on [My Website](https://miraj.com.np)
+
+##MY Skills
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)]
 
 <!---
 KlokMiraj/KlokMiraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
