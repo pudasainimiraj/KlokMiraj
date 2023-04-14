@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on innovative ideas and mind boggling software solutions
 - 📫 Find Everything about me and more on [My Website](https://miraj.com.np)
 
-#MY Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,nodejs,js,nextjs,py,react,ts,git,aws &theme=light)](https://skills.thijs.gg)
 
 <!---
 KlokMiraj/KlokMiraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
