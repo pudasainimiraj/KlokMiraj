@@ -6,7 +6,7 @@
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,nodejs,js,nextjs,py,react,ts,git,aws &theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,nodejs,js,nextjs,py,react,ts,git,aws&&theme=light)](https://skills.thijs.gg)
 
 <!---
 KlokMiraj/KlokMiraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
