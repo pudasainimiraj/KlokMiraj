@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KlokMiraj (Miraj Pudasaini)
-- 👀 I’m interested in anything technology, specially data driven solutions. Currently looking for Data Engineering/Software Engineering Roles
+- 👀 I’m interested in anything technology, specially data driven solutions.
 - 🌱 I’m currently stirring the pot @zolaAnalytics as a Software Engineer 
 - 💞️ I’m looking to collaborate on innovative ideas and mind boggling software solutions
 - 📫 Find Everything about me and more on [My Website](https://miraj.com.np)
